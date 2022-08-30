@@ -46,11 +46,26 @@ OBJETIVOS ESPECIFICOS CAPITULO XVIII
 
 CAPITULO 	XVII
 
+![capI](https://user-images.githubusercontent.com/105685180/187343371-1035eca4-620a-4a84-aeb5-cd75d00f9b87.png)
 
 CAPITULO XVIII
 
+![capII](https://user-images.githubusercontent.com/105685180/187343414-bad08908-ac4f-4471-a6f6-4fe2073eda5d.png)
+
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![Doc1_page-0001](https://user-images.githubusercontent.com/105685180/187343548-3df60c09-6d13-4d4c-93ea-c310ee2ee89c.jpg)
+![Doc1_page-0002](https://user-images.githubusercontent.com/105685180/187343552-aec376d7-7c47-4c7c-b8f5-21b2d94d6579.jpg)
+![Doc1_page-0003](https://user-images.githubusercontent.com/105685180/187343553-d670a3e1-febc-43de-a1a4-7b45f7193403.jpg)
+![Doc1_page-0004](https://user-images.githubusercontent.com/105685180/187343555-d4e9cff8-09fc-428e-9d8f-222f17b18dec.jpg)
+![Doc1_page-0005](https://user-images.githubusercontent.com/105685180/187343558-c50bd36e-b280-42d6-87de-b8d879957336.jpg)
+![Doc1_page-0006](https://user-images.githubusercontent.com/105685180/187343559-64cea23f-dfe2-4ea1-857d-478f6e1aa5f9.jpg)
+![Doc1_page-0007](https://user-images.githubusercontent.com/105685180/187343562-a611e478-6802-4d17-94c0-e000ac8a6dcd.jpg)
+![Doc1_page-0008](https://user-images.githubusercontent.com/105685180/187343564-978f4a5b-37a7-4e49-9b6f-ed9b490319c1.jpg)
+![Doc1_page-0009](https://user-images.githubusercontent.com/105685180/187343565-eaaa419c-49f8-46e3-89bb-0f51549475e9.jpg)
+![Doc1_page-0010](https://user-images.githubusercontent.com/105685180/187343567-43202bb7-2f90-42a6-889c-a5fed094bc64.jpg)
+![Doc1_page-0011](https://user-images.githubusercontent.com/105685180/187343571-b198ebfc-1f47-4a2c-83e8-3fa17a7c736e.jpg)
 
 
 4.- VIDEO
