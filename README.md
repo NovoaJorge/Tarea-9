@@ -10,8 +10,6 @@ NRC: 7319
 
 NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
-
-
 1.- OBJETIVOS 
 
 OBJETIVOS ESPECIFICOS CAPITULO XVII
@@ -61,6 +59,7 @@ https://youtu.be/ZOCQ4rK8Xq
 
 5.- CONCLUSIONES
 
+De la misma manera, los circuitos RCL hablan de circuitos serie, paralelo y serie-paralelo, y también se pueden dar temas especiales como su aplicación y el ancho de banda de los circuitos oscilantes. Del mismo modo, con los filtros pasivos, se puede dividir en varios subtemas, como filtro de paso bajo, filtro de paso alto, filtro de paso de banda y filtro de muesca, todos estos temas son extremadamente importantes. .
 
 6.- BIBLIOGRAFÍA
 
